@@ -10,3 +10,4 @@ Other useful resources:
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar, probably well-known to you by this point
 - [Transformers from Scratch](https://e2eml.school/transformers.html) by Brandon Rohrer. It starts by explaining things you probably know (e.g. matrix multiplication), but might provide some useful intuitions
 
+Slides on advanced MT techniques: [Google Slides](https://docs.google.com/presentation/d/1mlCvyi3xJ9yUm4-lsa-SYBJv6RF7HBkrL6aKpkmh-hU/edit?usp=sharing)
